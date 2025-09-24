@@ -1,4 +1,6 @@
-<img src="cartooncat.png" alt="Portada" width="100%"/>
+<p align="center">
+  <img src="cartooncat.png" alt="Portada" width="250"/>
+</p>
 
 # 👋 ¡Hola! Soy Brailyn León
 
