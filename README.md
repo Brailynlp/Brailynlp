@@ -16,22 +16,20 @@ Soy desarrollador de aplicaciones, apasionado por la tecnología y el aprendizaj
 - **Salesforce Developer – VASS Spain**  
   Desarrollo de componentes personalizados, integraciones con APIs REST y administración de Salesforce.  
 
-## 🌍 Idiomas
-- Español (nativo)  
-- Inglés (B2)  
-
 ## 📫 Conecta conmigo
 - ✉️ **brailynleonparra@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brailyn-leon-parra-18a425336)  
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-
 ![Brailyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brailynlp&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Brailynlp&theme=tokyonight)  
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brailynlp&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Brailynlp&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brailynlp&layout=compact&theme=tokyonight)
+
+</div>
+
 
 ---
