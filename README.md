@@ -22,14 +22,14 @@ Soy desarrollador de aplicaciones, apasionado por la tecnología y el aprendizaj
 
 ---
 
-![Brailyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brailynlp&show_icons=true&theme=tokyonight)  
+## 📊 Mis estadísticas en GitHub
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Brailynlp&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brailynlp&layout=compact&theme=tokyonight)
+| GitHub Stats | GitHub Streak | Lenguajes más usados |
+| --- | --- | --- |
+| ![Brailyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brailynlp&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=Brailynlp&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brailynlp&layout=compact&theme=tokyonight) |
 
 </div>
-
 
 ---
