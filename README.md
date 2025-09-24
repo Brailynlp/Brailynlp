@@ -24,17 +24,15 @@ Soy desarrollador de aplicaciones, apasionado por la tecnología y el aprendizaj
 
 ## 📊 Mis estadísticas en GitHub
 
-<div align="center">
+<div align="left">
 
 ### 🔥 Racha de contribuciones
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Brailynlp&theme=purple)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Brailynlp&theme=radical)
 
 ### 📈 Estadísticas generales
-![Brailyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brailynlp&show_icons=true&theme=purple)
+![Brailyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brailynlp&show_icons=true&theme=radical)
 
 ### 🧑‍💻 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brailynlp&layout=compact&theme=purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brailynlp&layout=compact&theme=radical)
 
 </div>
-
----
