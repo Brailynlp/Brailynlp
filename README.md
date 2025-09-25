@@ -2,7 +2,7 @@
   <img src="cartooncat2.png" alt="Portada" width="1000" height="450"/>
 </p>
 
-#¡Hola! Soy Brailyn León
+# ¡Hola! Soy Brailyn León
 
 Soy desarrollador de aplicaciones, apasionado por la tecnología y el aprendizaje continuo. Me adapto rápido a nuevos retos, disfruto trabajar en equipo y busco siempre mejorar procesos y resultados.  
 
